@@ -11,7 +11,7 @@ Passionate about bridging mathematical modeling, econometric theory, and operati
 
 | Project | Stack | Key Impact / Focus | Links |
 | :--- | :--- | :--- | :--- |
-| **Global Supply Chain Optimizer** | Python, Streamlit, Plotly Express | Modeled OTIF fulfillment, lead-time variance ($\sigma_L$), and financial disruption costs across 2,500 multimodal shipments. | [🚀 Live App](https://supply-chain-optimizer-nd2hjpl7rhhkhe7p9nfzme.streamlit.app/) • [📂 GitHub](https://github.com/shuklasamyak1/supply-chain-optimizer) |
+| **Global Supply Chain Optimizer** | Python, Streamlit, Plotly Express | Modeled OTIF fulfillment, lead-time variance ($\sigma_L$), and financial disruption costs across 2,500 multimodal shipments. | [ Live App](https://supply-chain-optimizer-nd2hjpl7rhhkhe7p9nfzme.streamlit.app/) • [ GitHub](https://github.com/shuklasamyak1/supply-chain-optimizer) |
 | **B2B SaaS Revenue Engine** | PostgreSQL, SQL, Power BI, DAX | Designed relational schema modeling a €49K ARR subscription portfolio to analyze customer churn and active MRR. | [ GitHub](https://github.com/shuklasamyak1/b2b-saas-retention-dashboard) |
 
 ---
