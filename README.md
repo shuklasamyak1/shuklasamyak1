@@ -1,67 +1,52 @@
-## Hi there 
-
 # Samyak Shukla
-### Quantitative Economics Graduate | Business & Data Analytics Specialist
+**Quantitative Economics & Prescriptive Analytics Specialist**  
+*Operations Research • Mixed-Integer Linear Programming • Stochastic Risk Modeling • Business Intelligence*
 
-Passionate about bridging mathematical modeling, econometric theory, and operational business intelligence. Experienced in deploying Python decision-support tools, architecting PostgreSQL star schemas, and formulating DAX metrics.
+[Portfolio](https://samyak-portfolio-ecru.vercel.app) • [LinkedIn](https://linkedin.com/in/samyak-shukla) • [Email](mailto:shuklasamyak1@gmail.com) • Lucknow, India
 
 ---
 
-###  Featured Analytics Projects
+## Executive Profile
 
-| Project | Stack | Key Impact / Focus | Links |
+Quantitative analyst focused on transforming complex economic and supply chain problems into mathematical optimization models and interactive decision tools. Experienced in engineering full-stack prescriptive systems, formulating Mixed-Integer Linear Programs (MILP), running stochastic tail-risk simulations (Monte Carlo $\text{VaR}_{95}$), and designing normalized relational databases.
+
+---
+
+## Featured Analytics & Operations Research Systems
+
+| System | Quantitative Engine & Stack | Operational Scope & Impact | Links |
 | :--- | :--- | :--- | :--- |
-| **Global Supply Chain Optimizer** | Python, Streamlit, Plotly Express | Modeled OTIF fulfillment, lead-time variance ($\sigma_L$), and financial disruption costs across 2,500 multimodal shipments. | [ Live App](https://supply-chain-optimizer-nd2hjpl7rhhkhe7p9nfzme.streamlit.app/) • [ GitHub](https://github.com/shuklasamyak1/supply-chain-optimizer) |
-| **B2B SaaS Revenue Engine** | PostgreSQL, SQL, Power BI, DAX | Designed relational schema modeling a €49K ARR subscription portfolio to analyze customer churn and active MRR. | [ GitHub](https://github.com/shuklasamyak1/b2b-saas-retention-dashboard) |
+| **Autonomous Multi-Tier Sourcing & Disruption Solver** | Python, PuLP (CBC Solver), NumPy, Streamlit, Plotly | Formulated a Mixed-Integer Linear Program minimizing total landed cost across global fulfillment hubs under dynamic capacity, contractual SLA, and Scope-3 carbon constraints. Integrated 1,000-trial Monte Carlo simulation for Parametric $\text{VaR}_{95}$ / $\text{CVaR}_{95}$, $\epsilon$-constraint Pareto efficient frontier analysis, and dual shadow price ($\pi$) extraction for bottleneck ROI. | [Live Application](https://supply-chain-command-center-pgzcwfma9cbbey4zo2zkyj.streamlit.app/) • [GitHub Repository](https://github.com/shuklasamyak1/supply-chain-command-center) |
+| **Global Multimodal Supply Chain Optimizer** | Python, Pandas, Streamlit, Plotly Express | Modeled OTIF fulfillment, stochastic lead-time variance ($\sigma_L$), safety stock buffer levels, and disruption loss distributions across 2,500 multimodal shipment lanes. | [Live Application](https://supply-chain-optimizer-nd2hjpl7rhhkhe7p9nfzme.streamlit.app/) • [GitHub Repository](https://github.com/shuklasamyak1/supply-chain-optimizer) |
+| **B2B SaaS Revenue & Churn Intelligence Engine** | PostgreSQL, Advanced SQL, Microsoft Power BI, DAX | Architected a star-schema relational model over a €49K ARR portfolio. Engineered complex DAX measures (filter contexts, cohort retention, and MRR movements) to track customer lifetime value and churn drivers. | [GitHub Repository](https://github.com/shuklasamyak1/b2b-saas-retention-dashboard) |
 
 ---
 
-###  Technical Competencies & Tooling
+## Technical & Quantitative Toolkit
 
-* **Languages & Querying:** Python (Pandas, NumPy), PostgreSQL, SQL (Joins, Aggregations, Window Functions), DAX (Filter Contexts, Scoped Variables)
-* **BI & Web Deployment:** Microsoft Power BI, Streamlit Cloud, Plotly Express, Advanced MS Excel, Star Schema Architecture
-* **Domain Focus:** Supply Chain Risk, Inventory Buffering (Safety Stock / ROP), Predictive Analytics, SaaS Churn Modeling, Econometrics
+* **Mathematical Optimization & Operations Research:** Mixed-Integer Linear Programming (MILP), PuLP Solver (COIN-OR Branch & Cut), Dual Shadow Pricing ($\pi = \frac{\partial \mathcal{L}^*}{\partial b_i}$), Multi-Objective Pareto Optimization ($\epsilon$-Constraint)
+* **Risk Analytics & Econometric Modeling:** Stochastic Simulation (Monte Carlo), Parametric Value-at-Risk ($\text{VaR}_{95}$), Conditional Value-at-Risk / Expected Shortfall ($\text{CVaR}_{95}$), Statistical Hypothesis Testing, Lead-Time Variance Modeling
+* **Data Engineering & Querying:** Python (NumPy, Pandas, PuLP), PostgreSQL, Advanced SQL (Window Functions, CTEs, Joins, Aggregations), Star Schema Design
+* **Business Intelligence & Deployment:** Streamlit Cloud, Plotly Graph Objects, Microsoft Power BI, DAX, Advanced MS Excel
+* **Domain Expertise:** Prescriptive Supply Chain Analytics, Multi-Echelon Procurement, Scope-3 ESG Carbon Caps, SaaS Retention Economics, Inventory Optimization (Safety Stock & Reorder Points)
 
 ---
 
-###  Academic Background & Credentials
+## Academic Credentials
 
 * **Bachelor of Arts (B.A.) in Economics** | University of Lucknow (2023 – 2026)
-  * **Score:** 73.40% | **MOI:** English
+  * **Aggregate Score:** 73.40% | **Medium of Instruction:** English
   * **Major:** Economics | **Minor:** Political Science & Public Administration
 * **Senior Secondary (Class XII - Science)** | City Montessori School, CISCE (2023) — **89.50%**
 * **Secondary (Class X)** | City Montessori School, ICSE (2021) — **95.60%**
 
 ---
 
-###  Certifications & Specialized Training
+## Certifications & Executive Training
 
-* **High-Performance Leadership** – IIM Ahmedabad (2026)
+* **High-Performance Leadership** – Indian Institute of Management (IIM) Ahmedabad (2026)
 * **Data Analytics Professional** – IBM (2025)
 * **Business Analytics (82%)** – IIT Madras Pravartak (2024)
 * **Financial Markets** – Yale University (2025)
-* **Management Decisions Using AI Tools** – LM Thapar (2025)
+* **Management Decisions Using AI Tools** – LM Thapar School of Management (2025)
 * **Product Management** – IBM (2025)
-
----
-
-###  Connect With Me
-
-* **Portfolio Website:** [samyak-portfolio-ecru.vercel.app](https://samyak-portfolio-ecru.vercel.app)
-* **LinkedIn:** [linkedin.com/in/samyak-shukla](https://linkedin.com/in/samyak-shukla)
-* **Email:** [shuklasamyak1@gmail.com](mailto:shuklasamyak1@gmail.com)
-* **Location:** Lucknow, India
-<!--
-**shuklasamyak1/shuklasamyak1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
