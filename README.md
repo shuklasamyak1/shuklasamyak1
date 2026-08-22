@@ -47,6 +47,7 @@ Passionate about bridging mathematical modeling, econometric theory, and operati
 
 ###  Connect With Me
 
+* **Portfolio Website:** [samyak-portfolio-ecru.vercel.app](https://samyak-portfolio-ecru.vercel.app)
 * **LinkedIn:** [linkedin.com/in/samyak-shukla](https://linkedin.com/in/samyak-shukla)
 * **Email:** [shuklasamyak1@gmail.com](mailto:shuklasamyak1@gmail.com)
 * **Location:** Lucknow, India
