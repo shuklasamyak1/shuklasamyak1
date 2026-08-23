@@ -18,17 +18,17 @@ Quantitative analyst focused on transforming complex economic and supply chain p
 | :--- | :--- | :--- | :--- |
 | **Autonomous Multi-Tier Sourcing & Disruption Solver** | Python, PuLP (CBC Solver), NumPy, Streamlit, Plotly | Formulated a Mixed-Integer Linear Program minimizing total landed cost across global fulfillment hubs under dynamic capacity, contractual SLA, and Scope-3 carbon constraints. Integrated 1,000-trial Monte Carlo simulation for Parametric VaR₉₅ / CVaR₉₅, epsilon-constraint Pareto efficient frontier analysis, and dual shadow price (π) extraction for bottleneck ROI. | [Live Application](https://supply-chain-command-center-pgzcwfma9cbbey4zo2zkyj.streamlit.app/) • [GitHub Repository](https://github.com/shuklasamyak1/supply-chain-command-center) |
 | **Global Multimodal Supply Chain Optimizer** | Python, Pandas, Streamlit, Plotly Express | Modeled OTIF fulfillment, stochastic lead-time variance (σ<sub>L</sub>), safety stock buffer levels, and disruption loss distributions across 2,500 multimodal shipment lanes. | [Live Application](https://supply-chain-optimizer-nd2hjpl7rhhkhe7p9nfzme.streamlit.app/) • [GitHub Repository](https://github.com/shuklasamyak1/supply-chain-optimizer) |
-| B2B SaaS Predictive Retention & Revenue Decision Engine | Python (Gradient Boosting, PuLP MILP), PostgreSQL, Power BI, DAX, Streamlit | Architected a PostgreSQL star schema for a €49K ARR portfolio. Trained a Gradient Boosting churn classifier coupled with dynamic CLV estimation, and formulated a PuLP Knapsack MILP solver to optimize account-level retention spend and maximize preserved ARR. [Live App](https://b2b-saas-retention-dashboard-u8f2lyqeyovxzcpa6wnutz.streamlit.app/) || [GitHub Repository](https://github.com/shuklasamyak1/b2b-saas-retention-dashboard) | 
+| **B2B SaaS Predictive Retention & Revenue Decision Engine** | Python (Gradient Boosting, PuLP MILP), PostgreSQL, Power BI, DAX, Streamlit | Architected a PostgreSQL star schema for a €49K ARR portfolio. Trained a Gradient Boosting churn classifier coupled with dynamic Customer Lifetime Value (CLV) estimation, and formulated a PuLP Knapsack MILP solver to optimize account-level retention spend and maximize preserved ARR under fixed marketing budgets. | [Live Application](https://b2b-saas-retention-dashboard-u8f2lyqeyovxzcpa6wnutz.streamlit.app/) • [GitHub Repository](https://github.com/shuklasamyak1/b2b-saas-retention-dashboard) |
 
 ---
 
 ## Technical & Quantitative Toolkit
 
-* **Mathematical Optimization & Operations Research:** Mixed-Integer Linear Programming (MILP), PuLP Solver (COIN-OR Branch & Cut), Dual Shadow Pricing (π), Multi-Objective Pareto Optimization (Epsilon-Constraint)
-* **Risk Analytics & Econometric Modeling:** Stochastic Simulation (Monte Carlo), Parametric Value-at-Risk (VaR₉₅), Conditional Value-at-Risk / Expected Shortfall (CVaR₉₅), Statistical Hypothesis Testing, Lead-Time Variance Modeling
-* **Data Engineering & Querying:** Python (NumPy, Pandas, PuLP), PostgreSQL, Advanced SQL (Window Functions, CTEs, Joins, Aggregations), Star Schema Design
+* **Mathematical Optimization & Operations Research:** Mixed-Integer Linear Programming (MILP), PuLP Solver (COIN-OR Branch & Cut), Knapsack Optimization, Dual Shadow Pricing (π), Multi-Objective Pareto Optimization (Epsilon-Constraint)
+* **Machine Learning & Risk Analytics:** Gradient Boosting Classifiers, Churn Hazard Rate Modeling, Dynamic Customer Lifetime Value (CLV), Stochastic Simulation (Monte Carlo), Parametric Value-at-Risk (VaR₉₅), Conditional Value-at-Risk (CVaR₉₅), Lead-Time Variance Modeling
+* **Data Engineering & Querying:** Python (NumPy, Pandas, Scikit-Learn, PuLP), PostgreSQL, Advanced SQL (Window Functions, CTEs, Joins, Aggregations), Star Schema Design
 * **Business Intelligence & Deployment:** Streamlit Cloud, Plotly Graph Objects, Microsoft Power BI, DAX, Advanced MS Excel
-* **Domain Expertise:** Prescriptive Supply Chain Analytics, Multi-Echelon Procurement, Scope-3 ESG Carbon Caps, SaaS Retention Economics, Inventory Optimization (Safety Stock & Reorder Points)
+* **Domain Expertise:** Prescriptive Supply Chain Analytics, Multi-Echelon Procurement, SaaS Retention Economics & RevOps, Scope-3 ESG Carbon Caps, Inventory Optimization (Safety Stock & Reorder Points)
 
 ---
 
